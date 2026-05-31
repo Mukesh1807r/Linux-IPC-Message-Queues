@@ -99,4 +99,4 @@ int main(int argc, char *argv[]) {
 
 
 # RESULT:
-The programs are executed successfully.
+The programs are executed successfully..
